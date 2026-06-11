@@ -1,0 +1,27 @@
+{
+  "model_type": "attention",
+  "test_size": 519,
+  "metrics": {
+    "dice": {
+      "mean": 0.8647,
+      "std": 0.1659
+    },
+    "iou": {
+      "mean": 0.7892,
+      "std": 0.1929
+    },
+    "accuracy": {
+      "mean": 0.9491,
+      "std": 0.0728
+    },
+    "sensitivity": {
+      "mean": 0.8809,
+      "std": 0.1745
+    },
+    "specificity": {
+      "mean": 0.9711,
+      "std": 0.0643
+    },
+    "auc": 0.9772684256107028
+  }
+}

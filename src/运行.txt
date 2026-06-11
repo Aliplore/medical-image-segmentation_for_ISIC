@@ -1,0 +1,11 @@
+# 1. 先训练模型（如果还没训练）
+python train.py
+
+# 2. 完整评估（含AUC和ROC曲线）
+python eval.py
+
+# 3. 横向对比所有方法
+python compare_methods.py
+
+# 4. 可视化预测结果
+python visualize.py
